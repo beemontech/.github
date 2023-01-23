@@ -1,4 +1,4 @@
-# Bem vindo ao repositório técnico da Beemôn
+# Bem-vindo ao repositório técnico da Beemôn
 
 ## Branches
 - Nome da branch segue a o número do card do JIRA
